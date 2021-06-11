@@ -1,2 +1,2 @@
 # Face-Detection
-Detects human faces through webcam, image, video etc.
+Detects human faces in real-time through webcam, image, video etc.
